@@ -19,7 +19,7 @@ root.geometry("540x380")
 def studentlist():
     print("great")
     stulist = Tk()
-    stulist.title("학생목록")
+    stulist.title("학생목록11")
     stulist.geometry("540x380")
 
     studentlistframe = Frame(stulist)
