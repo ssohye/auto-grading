@@ -1,0 +1,14 @@
+{
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        ".",
+        "-p",
+        "*test.py"
+    ],
+    "python.testing.pytestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.unittestEnabled": false,
+    "python.testing.promptToConfigure": false,
+    "python.pythonPath": "/Users/jihoseo/opt/anaconda3/bin/python"
+}
